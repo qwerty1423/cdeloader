@@ -1,6 +1,6 @@
 # CDE mod loader prototype
 
-This repo contains the loader, the mods and the build scripts.
+This repo contains the loader, some mods, and build scripts.
 
 ## Requirements
 
