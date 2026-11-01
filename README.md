@@ -1,6 +1,6 @@
-# CDE Mod Framework 0.1.119 source
+# CDE mod loader prototype
 
-This package contains the loader, the mods and the build scripts.
+This repo contains the loader, the mods and the build scripts.
 
 ## Requirements
 
