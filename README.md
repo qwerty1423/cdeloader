@@ -2,13 +2,11 @@
 
 warning: llms were used
 
-This repo contains the loader, some mods, and build scripts.
+This repo contains the loader, some mods, and build scripts. Maybe it might be useful. 
 
-maybe it might be useful
+Some of the mods are useless but you can disable them rather easily.
 
-some of the mods are useless but you can disable them rather easily
-
-compatible with the cde community patch.
+Compatible with the cde community patch and the vanilla game.
 
 after install you can use the F2 key to open the gui.
 
