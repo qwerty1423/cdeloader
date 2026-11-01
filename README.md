@@ -1,5 +1,7 @@
 # CDE mod loader prototype
 
+warning: llms were used
+
 This repo contains the loader, some mods, and build scripts.
 
 maybe it might be useful
