@@ -6,7 +6,6 @@ artifacts/*
 
 decomp/*
 !decomp/README.md
-# Reconstructed research code lives here: tracked, but never packaged or released.
 !decomp/reconstructed/
 !decomp/scripts/
 
