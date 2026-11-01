@@ -2,6 +2,12 @@
 
 This repo contains the loader, some mods, and build scripts.
 
+maybe it might be useful
+
+some of the mods are useless but you can disable them rather easily
+
+compatible with the cde community patch.
+
 ## Requirements
 
 - mingw-w64-gcc
