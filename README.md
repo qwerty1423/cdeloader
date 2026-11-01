@@ -4,7 +4,7 @@ warning: llms were used
 
 This repo contains the loader, some mods, and build scripts. Maybe it might be useful. 
 
-Some of the mods are useless but you can disable them rather easily.
+Some of the mods might be useless but you can disable them rather easily.
 
 Compatible with the cde community patch and the vanilla game.
 
